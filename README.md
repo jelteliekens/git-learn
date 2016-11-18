@@ -16,6 +16,8 @@ This is a simple web project, deployment can be done on any web server or even l
 
 ## How To Contirbute
 
+Please fork this repository adn then issue Pull Request for review.
+
 ## Copyright
 
 2015 Jelte Liekens
