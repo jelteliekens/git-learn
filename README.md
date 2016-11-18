@@ -20,4 +20,4 @@ Please fork this repository adn then issue Pull Request for review.
 
 ## Copyright
 
-2016 Jelte Liekens
+2016 Jelte Liekens. All rights reserved.
