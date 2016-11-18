@@ -2,3 +2,5 @@
 # The humans responsible & technology colophon
 
 ## Jelte Liekens
+
+# THANKS
